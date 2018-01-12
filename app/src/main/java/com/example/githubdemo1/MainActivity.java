@@ -1,4 +1,7 @@
 package com.example.githubdemo1;
+/**
+ * Test GitHub Change Commit.
+ */
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
