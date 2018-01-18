@@ -1,6 +1,6 @@
 package com.example.githubdemo1;
 /**
- * Test GitHub Change Commit.1111
+ * Test GitHub Change Commit. /githubhhhhh-submit
  */
 
 import android.support.v7.app.AppCompatActivity;
